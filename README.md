@@ -6,6 +6,9 @@ Este projeto é um sistema de controle de compras desenvolvido em Java com Sprin
 Funcionalidades
 Listar Compras
 
+Java Versão 17
+Spring Boot
+
 Endpoint: GET /compras
 Descrição: Retorna uma lista de todas as compras registradas.
 Maior Compra do Ano
@@ -25,8 +28,8 @@ Parâmetros:
 cpf (String) - O CPF do cliente.
 tipo (String) - O tipo de produto para recomendação.
 
-Roando o projeto.
+Rodando o projeto.
 Abra o arquivo na IDE Spring Tool Suite4.
 Inicie o projeto Run As Spring Boot App.
-Utilizando o Postman na porta 8080.
-Realize testes com method GET para consultas no Mocks e retorno de informações.
+Utilizando o Postman na porta http 8080.
+Realize testes com method GET para consultas nos Mocks e obter os retornos das informações solicitadas.

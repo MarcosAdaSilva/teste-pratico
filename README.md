@@ -1,4 +1,4 @@
-# teste-pratico
+# teste-prático
 Projeto criado para avaliação técnica.
 
 Este projeto é um sistema de controle de compras desenvolvido em Java com Spring Boot. Ele permite gerenciar compras, identificar a maior compra do ano, listar clientes fiéis e recomendar produtos.

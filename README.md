@@ -6,6 +6,11 @@ Este projeto é um sistema de controle de compras desenvolvido em Java com Sprin
 Funcionalidades
 Listar Compras
 
+BD
+H2 Console acesso:
+usuario: vendas
+senha: 12345
+
 Java Versão 17
 Spring Boot
 
